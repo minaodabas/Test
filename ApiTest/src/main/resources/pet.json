@@ -1,0 +1,18 @@
+{
+  "id": 1614958288,
+  "category": {
+    "id": 0,
+    "name": "dog"
+  },
+  "name": "bobby",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "terry"
+    }
+  ],
+  "status": "sold"
+}
